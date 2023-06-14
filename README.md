@@ -2,6 +2,4 @@
 #### Obtido pelo Chat GPT 3
 
 * IDE: PyCharm
-* Dependencia: numpy
-* Biblioteca: Matplotlib
-
+* Bibliotecas: Matplotlib, Numpy
